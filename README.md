@@ -5,7 +5,7 @@
 
 ---
 
-This project showcases data cleaning, analysis, and visualization in Excel using a home sales dataset.??
+This project demonstrates data cleaning, analysis, and visualization using Excel, Power BI and SQL on a U.S. Superstore sales dataset.
 
 ---
 
