@@ -18,7 +18,6 @@ This project demonstrates data cleaning, analysis, and visualization using Excel
   - `Superstore_Exercises.md` = Exercises/Questions
 - **`Superstore_Images`** = screenshots
 - **`Superstore_Scripts`:**
-  -  
 
 ## Key Features
 - 
