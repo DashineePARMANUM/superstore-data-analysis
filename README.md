@@ -31,7 +31,7 @@ This project showcases data cleaning, analysis, and visualization in Excel using
 
 ## Data Source and License
 The dataset used in this project was obtained from Kaggle at https://www.kaggle.com/datasets/soumyashanker/superstore-us/data.
-> CC0 1.0 Universal: https://people.sc.fsu.edu/~jburkardt/txt/gnu_lgpl.txt](https://creativecommons.org/publicdomain/zero/1.0/
+> CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
 
 ---
 *Contact: dashinee.parmanum@gmail.com*  
