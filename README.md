@@ -1,2 +1,38 @@
-# superstore-data-analysis
-Fall 2025 Hybrid Project - Superstore Sales Analysis
+# Superstore Data Analysis
+
+**Dashinee Parmanum**  
+*Self-directed portfolio hybrid project in Statistics and Data Analysis - Fall 2025*
+
+---
+
+This project showcases data cleaning, analysis, and visualization in Excel using a home sales dataset.??
+
+---
+
+## Files and Folders
+- **`Superstore_Datasets`:**
+  - `superstore_US.csv` = Original dataset
+- **`Superstore_Docs`:**
+  - `Superstore_Report.md` = Detailed project overview and insights
+  - `Superstore_Process.md` = Step-by-step methodology and formula explanations
+  - `Superstore_Exercises.md` = Exercises/Questions
+- **`Superstore_Images`** = screenshots
+- **`Superstore_Scripts`:**
+  -  
+
+## Key Features
+- 
+
+## Skills Demonstrated
+-
+
+## Usage
+- 
+
+## Data Source and License
+The dataset used in this project was obtained from Kaggle at https://www.kaggle.com/datasets/soumyashanker/superstore-us/data.
+> CC0 1.0 Universal: https://people.sc.fsu.edu/~jburkardt/txt/gnu_lgpl.txt](https://creativecommons.org/publicdomain/zero/1.0/
+
+---
+*Contact: dashinee.parmanum@gmail.com*  
+*LinkedIn: https://www.linkedin.com/in/dashinee-parmanum/*
