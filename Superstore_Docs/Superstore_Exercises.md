@@ -4,7 +4,6 @@
 *Self-directed portfolio hybrid project in Statistics and Data Analysis - Fall 2025*
 
 ---
-## Analysis Questions
 1. Which products, sub-categories, and categories generate the highest sales and profit?  
 2. Which regions, states, and cities are the most profitable?  
 3. How do sales and profit change over time (monthly, quarterly, yearly)?  
