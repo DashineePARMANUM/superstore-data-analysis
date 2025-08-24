@@ -31,7 +31,7 @@ This project demonstrates data cleaning, analysis, and visualization using Excel
 - 
 
 ## Data Source and License
-The dataset used in this project was obtained from Kaggle at https://www.kaggle.com/datasets/soumyashanker/superstore-us/data.
+The dataset used in this project was obtained from Kaggle at [https://www.kaggle.com/datasets/soumyashanker/superstore-us/data](https://www.kaggle.com/datasets/soumyashanker/superstore-us/data).
 > CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
 
 ---
