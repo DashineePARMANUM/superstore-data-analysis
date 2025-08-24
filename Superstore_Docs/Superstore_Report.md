@@ -1,6 +1,6 @@
 ## IN THE WORKS
 
-# Superstore Data Analysis Exercises
+# Superstore Data Analysis Report
 
 **Dashinee Parmanum**  
 *Self-directed portfolio hybrid project in Statistics and Data Analysis - Fall 2025*
