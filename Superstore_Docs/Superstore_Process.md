@@ -8,7 +8,7 @@
 ---
 ## 0. Original Data and Setup
 - In Excel:
- - Formatting = changed to date/numbers for data type for some column
+  - Formatting = changed to date/numbers for data type for some column
  - Used Data Filter to check that there’s no empty cells & search for “n/a”
 
 ---
