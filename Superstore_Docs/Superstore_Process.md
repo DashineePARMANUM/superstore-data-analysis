@@ -61,7 +61,7 @@
 - In Excel:
   - New pivot table using whole dataset
   - Rows = Product Name & Sub-Category, Values = Sum of Profit
-  - Sort by descending order to check which are underperforming
+  - Sort by ascending order to check which are underperforming
 
 ---
 ## 7. Are there seasonal trends in sales across months or quarters? 
