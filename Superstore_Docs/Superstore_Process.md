@@ -68,7 +68,7 @@
 - 
 
 ---
-## 8. How does ship mode relate to sales, profit, or customer satisfaction?
+## 8. How does ship mode relate to sales or profit?
 -  
 
 ---
