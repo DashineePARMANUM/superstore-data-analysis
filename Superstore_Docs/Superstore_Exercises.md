@@ -13,7 +13,7 @@
 7. Are there seasonal trends in sales across months or quarters?  
 8. How does ship mode relate to sales, profit, or customer satisfaction?  
 9. Which customers have the highest purchase frequency or total spend?  
-10. Are there geographic trend:states or regions that consistently perform well or poorly?  
+10. Are there geographic trend: states or regions that consistently perform well or poorly?  
 11. Which products or categories have the highest profit margin relative to sales?  
 12. What actionable insights can inform marketing, inventory, or pricing strategies?  
  
