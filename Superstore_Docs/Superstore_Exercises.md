@@ -11,7 +11,7 @@
 5. How do discounts affect sales volume and profitability?  
 6. Which products or sub-categories are underperforming in sales or profit?  
 7. Are there seasonal trends in sales across months or quarters?  
-8. How does ship mode relate to sales, profit, or customer satisfaction?  
+8. How does ship mode relate to sales or profit?  
 9. Which customers have the highest purchase frequency or total spend?  
 10. Are there geographic trend: states or regions that consistently perform well or poorly?  
 11. Which products or categories have the highest profit margin relative to sales?  
