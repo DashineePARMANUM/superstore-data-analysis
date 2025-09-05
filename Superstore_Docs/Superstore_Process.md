@@ -76,7 +76,7 @@
 - 
  
 ---
-## 10. Are there geographic trends—states or regions that consistently perform well or poorly?
+## 10. Are there geographic trends: states or regions that consistently perform well or poorly?
 - 
 
 ---
