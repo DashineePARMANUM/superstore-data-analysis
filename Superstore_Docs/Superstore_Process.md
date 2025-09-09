@@ -25,7 +25,7 @@
   - Created 3 column charts to display profit by Region, State & City.
 
 ---
-## 3. How do sales and profit change over time (monthly, quarterly, yearly)?  
+## 3. How does sales and profit change over time (monthly, quarterly, yearly)?  
 - In Power BI:
   - In Table View:
     - Created column year: year = year(superstore_US_raw[Order Date]).
