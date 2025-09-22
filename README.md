@@ -19,9 +19,9 @@ This project demonstrates data cleaning, analysis, and visualization using Excel
   - `Superstore_Process.md` = Step-by-step methodology and formula explanations
   - `Superstore_Exercises.md` = Exercises/Questions
 - **`Superstore_Images`** = screenshots
-- **`Superstore_Excel`** = Excel files
-- **`Superstore_PowerBI`** = PowerBI files
-- **`Superstore_SQL`** = SQL files
+- **`Superstore_Excel`** = `#1_Excel.xlsx`
+- **`Superstore_PowerBI`** = `#1_Excel.xlsx`
+- **`Superstore_SQL`** = ...
 
 ## Key Features
 - 
