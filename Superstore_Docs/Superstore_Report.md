@@ -43,6 +43,19 @@ Seems like there’s no real impact - more or less homogenous distribution.
 Tables, Bookcases & Supplies are the bottom 3 for Sum of Profit (negative values).  
 Cubify CubeX 3D Printer Double Head Print, Lexmark MX611dhe Monochrome Laser Printer, Cubify CubeX 3D Printer Triple Head Print are the bottom 3 for Sum of Profit ( < -3000).  
 
+**7. Are there seasonal trends in sales across months or quarters?**
+
+**8. How does ship mode relate to sales or profit?**
+
+**9. Which customers have the highest purchase frequency or total spend?**
+ 
+**10. Are there geographic trends: states or regions that consistently perform well or poorly?**
+
+**11. Which products or categories have the highest profit margin relative to sales?**
+
+**12. What actionable insights can inform marketing, inventory, or pricing strategies?**
+
+
 ---
 ## 5. Reflection and Learning Outcomes
 - 
