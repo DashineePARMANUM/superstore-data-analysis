@@ -21,7 +21,7 @@ This project demonstrates data cleaning, analysis, and visualization using Excel
 - **`Superstore_Images`** = screenshots
 - **`Superstore_Excel`** = `#1_Excel.xlsx`
 - **`Superstore_PowerBI`** = `#1_PowerBI.pbix`
-- **`Superstore_SQL`** = ...
+- **`Superstore_SQL`** = `#1_SQL.sql`
 
 ## Key Features
 - 
