@@ -34,7 +34,7 @@
 - Quarterly: general increase with ups and downs;  
     - Q4Y2015-Q1Y2016 = significant increase.
     - Q3Y2016-Q4Y2016-Q1Y2017 = signigficant increase.
-    - Q1Y2017-Q2Y2017 = signigficant decrease Q2Y2017-Q3Y2017 =  signigficant decrease (biggest change) (significant = changes of at elast 10K). 
+    - Q1Y2017-Q2Y2017 = signigficant decrease Q2Y2017-Q3Y2017 =  signigficant decrease (biggest change) (significant = changes of at least 10K). 
 - Monthly: general homogenity with ups and downs, M3Y2017-M4Y2017 = significant decrease (biggest change).  
   
  
