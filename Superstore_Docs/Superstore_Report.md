@@ -67,6 +67,16 @@
 | CC-12370     | Christopher Conant | 22               | 24,258.14     |
  
 **10. Are there geographic trends: states or regions that consistently perform well or poorly?**
+- West = higest is Montana with 122, lowest is Colorado with -36.
+- Central = higest is Indiana with 123, lowest is Texas with -26.
+- East = higest is Vermont with 203, lowest is Ohio with -36.
+- South = higest is Alabama with 93, lowest is North Carolina with -30.
+- Lowest overall is Ohio with -36 (East).
+- Highest overall is Vermont with 203 (East).
+- High variance for East.
+- Lowest region overall is South.
+- Highest region overall is between East and Central.
+
   
 **11. Which products or categories have the highest profit margin relative to sales?**
 - Category = Office Supplies - Technology - Furniture.  
