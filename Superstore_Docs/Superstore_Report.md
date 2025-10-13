@@ -43,15 +43,32 @@ Seems like there’s no real impact - more or less homogenous distribution.
 Tables, Bookcases & Supplies are the bottom 3 for Sum of Profit (negative values).  
 Cubify CubeX 3D Printer Double Head Print, Lexmark MX611dhe Monochrome Laser Printer, Cubify CubeX 3D Printer Triple Head Print are the bottom 3 for Sum of Profit ( < -3000).  
 
-**7. Are there seasonal trends in sales across months or quarters?**
+**7. Are there seasonal trends in sales across months or quarters?**  
+Line graph 1 - quarters : General increase, with M11 highest and M2 lowest, M2-M3 = biggest change (~88K increase).  
+Line graph 2 - months : Q1-Q2 = decrease, Q2-Q3 = increase , Q3-Q4 = increase.  
 
 **8. How does ship mode relate to sales or profit?**
+Standard Class has the highest Sum of Profit & Sum of Sales.  
 
 **9. Which customers have the highest purchase frequency or total spend?**
+| Customer ID | Customer Name       | COUNT (Order ID) | SUM (Sales)  |
+|--------------|--------------------|------------------|--------------:|
+| SM-20320     | Sean Miller        | 30               | 50,086.10     |
+| TC-20980     | Tamara Chand       | 24               | 38,104.44     |
+| RB-19360     | Raymond Buch       | 36               | 30,234.68     |
+| TA-21385     | Tom Ashbrook       | 20               | 29,191.24     |
+| AB-10105     | Adrian Barton      | 40               | 28,947.14     |
+| KL-16645     | Ken Lonsdale       | 58               | 28,350.46     |
+| SC-20095     | Sanjit Chand       | 44               | 28,284.67     |
+| HL-15040     | Hunter Lopez       | 22               | 25,746.60     |
+| SE-20110     | Sanjit Engle       | 38               | 24,418.88     |
+| CC-12370     | Christopher Conant | 22               | 24,258.14     |
  
 **10. Are there geographic trends: states or regions that consistently perform well or poorly?**
 
 **11. Which products or categories have the highest profit margin relative to sales?**
+Category = Office Supplies - Technology - Furniture.  
+Product (Top 6, all with average of 0.5) = Xerox 1890 - Southworth Structures Collection - Tops Green Bar Computer Printout Paper - Canon imageCLASS MF7460 Monochrome Digital Laser Multifunction Copier - Avery 475 - Adams Telephone Message Book w/Frequently-Called Numbers Space, 400 Messages per Book.  
 
 **12. What actionable insights can inform marketing, inventory, or pricing strategies?**
 
