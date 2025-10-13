@@ -126,19 +126,15 @@ In PgAdmin/SQL:
   - Sort by descending order.
 
 ---
-## 12. What actionable insights can inform marketing, inventory, or pricing strategies?  
+## 12. Key Insights
 - 
 
 ---
-## 13. Key Insights
+## 13. Challenges and Solutions
 - 
 
 ---
-## 14. Challenges and Solutions
-- 
-
----
-## 15. Final File
+## 14. Final File
 - 
 
 ---
