@@ -19,31 +19,31 @@
 
 ---
 ## 4. Insights
-**1. Which products, sub-categories, and categories generate the highest sales and profit?**  
+**1. Which products, sub-categories, and categories generate the highest sales and profit?**
 - Technology Category has the highest Sales and Profit.  
 - Canon imageCLASS 2200 Advanced Copier Product has the highest Sales and Profit.  
 - Phones Sub-Category has the highest Sales & Copiers Sub-Category has the highest Profit.  
 
-**2. Which regions, states, and cities are the most profitable?**    
+**2. Which regions, states, and cities are the most profitable?**
 - West Region, California State & New York City had the highest Profit.  
 
-**3. How does profit change over time (monthly, quarterly, yearly)?**   
+**3. How does profit change over time (monthly, quarterly, yearly)?**
 - Yearly: general increase.  
 - Quarterly: general increase with ups and downs;  
  Q4Y2015-Q1Y2016 = significant increase, Q3Y2016-Q4Y2016-Q1Y2017 = signigficant increase, Q1Y2017-Q2Y2017 = signigficant decrease, Q2Y2017-Q3Y2017 =  signigficant decrease (biggest change) (significant = changes of at elast 10K).  
 - Monthly: general homogenity with ups and downs, M3Y2017-M4Y2017 = significant decrease (biggest change).  
  
-**4. Which customer segments contribute most to revenue and profit?**    
+**4. Which customer segments contribute most to revenue and profit?**
 - Consumer Segment contributes the most revenue & profit.  
 
-**5. How do discounts affect sales volume and profitability?**    
+**5. How do discounts affect sales volume and profitability?**
 - Seems like there’s no real impact - more or less homogenous distribution.  
 
-**6. Which products or sub-categories are underperforming in sales or profit?**  
+**6. Which products or sub-categories are underperforming in sales or profit?**
 - Tables, Bookcases & Supplies are the bottom 3 for Sum of Profit (negative values).  
 - Cubify CubeX 3D Printer Double Head Print, Lexmark MX611dhe Monochrome Laser Printer, Cubify CubeX 3D Printer Triple Head Print are the bottom 3 for Sum of Profit ( < -3000).  
 
-**7. Are there seasonal trends in sales across months or quarters?**  
+**7. Are there seasonal trends in sales across months or quarters?**
 - Line graph 1 - quarters : General increase, with M11 highest and M2 lowest, M2-M3 = biggest change (~88K increase).  
 - Line graph 2 - months : Q1-Q2 = decrease, Q2-Q3 = increase , Q3-Q4 = increase.  
 
