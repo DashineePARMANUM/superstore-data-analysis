@@ -40,7 +40,7 @@
   - Plot a Line Chart with MY in x-axis & Sum of Profit in y-axis.
 
 ---
-## 4. Which customer segments contribute most to revenue and profit?
+## 4. Which segment contribute most to revenue and profit?
 - In Excel:
   - New pivot table using whole dataset.
   - Segment in Rows.
