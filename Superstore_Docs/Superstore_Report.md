@@ -21,7 +21,12 @@ The dataset captures sales transactions across multiple regions, product categor
 
 ---
 ## 3. Methodology
-- 
+Excel:
+- Pivot tabel for top products, sub-categories, and categories.
+- Pivot table for top segment.
+- Pivot table for underperforming products and sub-categories.
+- Pivot table for ship mode.
+- Pivot table for products and categories with the highest profit margin (Profit column was created: ).
 
 ---
 ## 4. Insights
@@ -41,7 +46,7 @@ The dataset captures sales transactions across multiple regions, product categor
     - Q1Y2017-Q2Y2017 = signigficant decrease Q2Y2017-Q3Y2017 =  signigficant decrease (biggest change) (significant = changes of at least 10K). 
 - Monthly: general homogenity with ups and downs, M3Y2017-M4Y2017 = significant decrease (biggest change).  
   
-**4. Which customer segments contribute most to revenue and profit?**
+**4. Which segment contribute most to revenue and profit?**
 - Consumer Segment contributes the most revenue & profit.  
 
 **5. How do discounts affect sales volume and profitability?**
