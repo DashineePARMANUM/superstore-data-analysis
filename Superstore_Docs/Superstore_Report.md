@@ -12,8 +12,8 @@ The purpose is to provide insights and recommendations for improving profitabili
 
 ---
 ## 2. Data Description
-The dataset contains transactional records with the following columns:
-- Row ID, Order ID, Order Date, Ship Date, Ship Mode, Customer ID, Customer Name, Segment, Country, City, State, Postal Code, Region, Product ID, Category, Sub-Category, Product Name, Sales, Quantity, Discount.  
+The dataset contains transactional records with the following columns:  
+Row ID, Order ID, Order Date, Ship Date, Ship Mode, Customer ID, Customer Name, Segment, Country, City, State, Postal Code, Region, Product ID, Category, Sub-Category, Product Name, Sales, Quantity, Discount.  
 *Note:* Profit is not included in the original dataset was calculated separately.
 The dataset captures sales transactions across multiple regions, product categories, and customer segments and spans multiple years.
 
