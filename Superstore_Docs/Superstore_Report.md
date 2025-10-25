@@ -55,7 +55,7 @@ The dataset captures sales transactions across multiple regions, product categor
     - Q1Y2017-Q2Y2017 = significant decrease Q2Y2017-Q3Y2017 =  significant decrease (biggest change) (significant = changes of at least 10K). 
 - Monthly: general homogeneity with ups and downs, M3Y2017-M4Y2017 = significant decrease (biggest change).  
   
-**4. Which segment contribute most to revenue and profit?**
+**4. Which segment contributes most to revenue and profit?**
 - Consumer Segment contributes the most revenue & profit.  
 
 **5. How do discounts affect sales volume and profitability?**
