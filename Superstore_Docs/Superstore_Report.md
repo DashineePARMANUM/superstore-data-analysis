@@ -21,12 +21,20 @@ The dataset captures sales transactions across multiple regions, product categor
 
 ---
 ## 3. Methodology
-Excel:
-- Pivot tabel for top products, sub-categories, and categories.
+**Excel:**
+- Pivot table for top products, sub-categories, and categories.
 - Pivot table for top segment.
 - Pivot table for underperforming products and sub-categories.
 - Pivot table for ship mode.
 - Pivot table for products and categories with the highest profit margin (ProfitMargin column was created: ProfitMargin = Profit/Sale).
+**Power BI:**
+- Column chart = sum of Profit by Region, State, and City.
+- Line chart =  sum of Profit by year, month, and quarter.
+- Scatter chart = Discount vs Profit and Discount vs Sales.
+- Line chart = sum of Sales by month and quarter.
+- Map = Average Profit by Region and State.
+**SQL (PgAdmin):**
+- Found top (10) customers with the highest purchase frequency and total spend.
 
 ---
 ## 4. Insights
