@@ -13,7 +13,7 @@ This project demonstrates data cleaning, analysis, and visualization using Excel
 
 ## Files and Folders
 - **`Superstore_Datasets`:**
-  - `superstore_US_raw.csv` = Original raw dataset
+  - `superstore_US.csv` = Original raw dataset
 - **`Superstore_Docs`:**
   - `Superstore_Report.md` = Detailed project overview and insights
   - `Superstore_Process.md` = Step-by-step methodology and formula explanations
