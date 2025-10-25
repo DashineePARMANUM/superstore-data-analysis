@@ -105,11 +105,17 @@ The dataset captures sales transactions across multiple regions, product categor
 
 ---
 ## 5. Reflection and Learning Outcomes
-- 
+- Learned to clean and organize large datasets in Excel, Power BI, and SQL.
+- Practiced creating pivot tables, charts, and SQL queries for business insights.
+- Gained experience interpreting sales trends, customer behavior, and geographic patterns.
 
 ---
-## 6. Conclusion
-- 
+## 6. Recommendations
+- Focus marketing and inventory on high-performing categories: Technology and Phones.
+- Investigate underperforming products/sub-categories (Tables, Bookcases, Supplies) to reduce losses or discontinue.
+- Promote Standard Class shipping or optimize shipping strategies to maximize profitability.
+- Target high-value customer segments (Consumers) with loyalty programs or promotions.
+- Consider seasonal trends for inventory planning and marketing campaigns, especially Q4 spikes.
 
 ---
 *Contact: dashinee.parmanum@gmail.com*  
