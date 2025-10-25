@@ -7,7 +7,7 @@
 1. Which products, sub-categories, and categories generate the highest sales and profit?  
 2. Which regions, states, and cities are the most profitable?  
 3. How does profit change over time (monthly, quarterly, yearly)?  
-4. Which customer segments contribute most to revenue and profit?  
+4. Which segment contribute most to revenue and profit?  
 5. How do discounts affect sales volume and profitability?  
 6. Which products or sub-categories are underperforming in sales or profit?  
 7. Are there seasonal trends in sales across months or quarters?  
