@@ -140,14 +140,17 @@ In PgAdmin/SQL:
 
 ---
 ## 13. Challenges and Solutions
-- 
-
+- Inconsistent date formats across Excel, Power BI, and SQL
+  -  Standardized the date columns in Excel and created sortable date keys (`QYsort`, `MYsort`) in Power BI to ensure proper chronological order in visuals.  
+- Import process in PgAdmin (path errors)
+  - Moved the dataset to a simpler directory (`C:\temp`).
+  
 ---
 ## 14. Final File
 - `superstore_US_raw.csv` = Original dataset
 - `#1_Excel.xlsx` = Excel pivot tables and summary sheets 
 - `#1_PowerBI.pbix` = Power BI dashboard and visual analysis
-- `#1_SQL.sql` — SQL queries used in PgAdmin  
+- `#1_SQL.sql` = SQL queries used in PgAdmin  
 
 ---
 *Contact: dashinee.parmanum@gmail.com*  
