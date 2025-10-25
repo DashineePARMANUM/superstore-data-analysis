@@ -1,5 +1,3 @@
-## IN THE WORKS
-
 # Superstore Data Analysis Process
 
 **Dashinee Parmanum**  
@@ -127,7 +125,18 @@ In PgAdmin/SQL:
 
 ---
 ## 12. Key Insights
-- 
+- Technology Category has the highest Sales and Profit.  
+- Canon imageCLASS 2200 Advanced Copier is the top Product by both Sales and Profit.  
+- Phones Sub-Category has the highest Sales; Copiers Sub-Category has the highest Profit.  
+- West Region, California State, and New York City are the most profitable.  
+- Profit shows a general upward trend over time.
+- Consumer Segment contributes the most to both Sales and Profit.
+- Underperforming Sub-Categories include Tables, Bookcases, and Supplies.  
+- Discounts have little to no significant effect on Sales or Profit.  
+- Standard Class shipping mode generates the highest Sales and Profit.
+- Top customers by total spend include Sean Miller, Tamara Chand, and Raymond Buch. 
+- Vermont is the highest-profit state, while Ohio has the lowest.  
+- Office Supplies has the best profit margin compared to Technology and Furniture.  
 
 ---
 ## 13. Challenges and Solutions
