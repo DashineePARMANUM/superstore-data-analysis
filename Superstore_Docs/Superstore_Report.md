@@ -26,7 +26,7 @@ Excel:
 - Pivot table for top segment.
 - Pivot table for underperforming products and sub-categories.
 - Pivot table for ship mode.
-- Pivot table for products and categories with the highest profit margin (Profit column was created: ).
+- Pivot table for products and categories with the highest profit margin (ProfitMargin column was created: ProfitMargin = Profit/Sale).
 
 ---
 ## 4. Insights
