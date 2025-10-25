@@ -5,6 +5,7 @@
 
 ---
 ## 1. Introduction
+Superstore is a multi-regional retailer selling office supplies, furniture, and technology products.
 This report analyzes sales data from a Superstore dataset to identify trends, top-performing products, customer segments, and geographic patterns.  
 The purpose is to provide insights and recommendations for improving profitability and operational efficiency.
 
