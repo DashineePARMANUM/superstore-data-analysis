@@ -7,7 +7,7 @@
 ## 0. Original Data and Setup
 - In Excel:
   - Formatting = changed to date/numbers for data type for some column.
-  - Used Data Filter to check that there’s no empty cells & search for “n/a”.
+  - Used Data Filter to check that there are no empty cells & search for “n/a”.
 
 ---
 ## 1. Which products, sub-categories, and categories generate the highest sales and profit? 
@@ -42,7 +42,7 @@
 ---
 ## 4. Which customer segments contribute most to revenue and profit?
 - In Excel:
-  - New pivot table using whole dataset..
+  - New pivot table using whole dataset.
   - Segment in Rows.
   - Sum of Profit & Sum of Sales in Values.
   - Sort by Descending.
