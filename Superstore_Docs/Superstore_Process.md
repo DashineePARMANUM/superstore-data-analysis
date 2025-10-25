@@ -147,7 +147,7 @@ In PgAdmin/SQL:
   
 ---
 ## 14. Final File
-- `superstore_US_raw.csv` = Original dataset
+- `superstore_US.csv` = Original dataset
 - `#1_Excel.xlsx` = Excel pivot tables and summary sheets 
 - `#1_PowerBI.pbix` = Power BI dashboard and visual analysis
 - `#1_SQL.sql` = SQL queries used in PgAdmin  
