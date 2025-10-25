@@ -1,5 +1,3 @@
-## IN THE WORKS
-
 # Superstore Data Analysis Report
 
 **Dashinee Parmanum**  
