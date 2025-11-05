@@ -42,9 +42,9 @@ This project demonstrates data cleaning, analysis, and visualization using Excel
 - Documentation & Reporting = Clearly explaining methodology, formulas, and analytical steps.
 
 ## Usage
-- Open the Excel file (`#1_Excel.xlsx`) to explore pivot tables and summaries.
-- Open Power BI (`#1_PowerBI.pbix`) to interact with dashboards, charts, and map visualizations.
-- Run SQL queries (`#1_SQL.sql`) in PgAdmin or another PostgreSQL environment to identify top customers and perform additional aggregation queries.
+- Open the `#1_Excel.xlsx` to explore pivot tables and summaries.
+- Open `#1_PowerBI.pbix` to interact with dashboards, charts, and map visualizations.
+- Run `#1_SQL.sql` in PgAdmin or another PostgreSQL environment to identify top customers and perform additional aggregation queries.
 - Reference `Superstore_Process.md` for step-by-step methodology and formulas used in the analysis.
 - Reference `Superstore_Report.md` for a narrative overview of insights and findings.
 
